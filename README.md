@@ -30,7 +30,8 @@ pip install -r requirements.txt
  |:----------------------------------------------------------------:| :--:|
  |    go-cqhttp（[仓库](https://github.com/Mrs4s/go-cqhttp)）    |  ✅  |
  | Lagrange.Onebot（[仓库](https://github.com/LagrangeDev/Lagrange.Core)） |  ✅  |
- |     NapCat（[仓库](https://github.com/NapNeko/NapCatQQ)）      |  ✅  |
+ |     NapCat（[仓库](https://github.com/NapNeko/NapCatQQ)）      |  ✅  |  
+
 **[点我食用文档](/onebot/食用说明.md)**
 ## 🧩插件开发🧩
 **🚜插件文档正在施工，或许你可以~~先读一读代码~~**
