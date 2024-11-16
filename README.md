@@ -2,7 +2,7 @@
 ***
 ![LICENSE](https://img.shields.io/badge/license-icon?style=for-the-badge&label=GPL-3.0&color=green) 
 ![PYTHON](https://img.shields.io/badge/3.8%2B-icon?style=for-the-badge&label=Python&color=lightblue)
-![QQ](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%A4%BE%E5%8C%BA?style=for-the-badge&label=QQ%E7%BE%A4&color=blue)
+![QQ](https://img.shields.io/badge/%E5%AE%98%E6%96%B9-%E7%A4%BE%E5%8C%BA?style=for-the-badge&label=QQ%E7%BE%A4&color=blue&link=https://qm.qq.com/cgi-bin/qm/qr?k=LteZqCk_lsIO7OWgx3HtQqWzGGDVYjTq&jump_from=webapi&authKey=Gcg2D/di5o7qI31M4mTVpdjfqJNOuLdnUqZCafC9Chtocq8kPVBoAAqMB8hukDxO)
 ![ONEBOT](https://img.shields.io/badge/11-icon?style=for-the-badge&label=Onebot&labelColor=black&color=gray)
 
 
