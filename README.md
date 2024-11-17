@@ -31,10 +31,9 @@ pip install -r requirements.txt
  |    go-cqhttp（[仓库](https://github.com/Mrs4s/go-cqhttp)）    |  ✅  |
  | Lagrange.Onebot（[仓库](https://github.com/LagrangeDev/Lagrange.Core)） |  ✅  |
  |     NapCat（[仓库](https://github.com/NapNeko/NapCatQQ)）      |  ✅  |  
-
 **[点我食用文档](/onebot/食用说明.md)**
 ## 🧩插件开发🧩
-**🚜插件文档正在施工，或许你可以~~先读一读代码~~**
+**[点我食用文档](https://cnlongy-py.github.io/Re-SimpQ/#/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91)**
 ## 🔍快速功能🔎
 #### 高效Debug(DebugCore插件)
 命令系统中输入 **debug start** 开始记录,在命令行逐行输入你的代码   
