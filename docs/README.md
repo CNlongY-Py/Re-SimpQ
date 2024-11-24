@@ -1,7 +1,7 @@
 # 📄 简介 📄
 > **SimpQ-Bot系列**最新力作，重置了SimpQ-Ref的大部分代码    
 
-![Header](Re-SimpQ.png)
+![Re-SimpQ](https://socialify.git.ci/CNlongY-Py/Re-SimpQ/image?forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FCNlongY-Py%2FRe-SimpQ%2Frefs%2Fheads%2Fmain%2Fdocs%2FICON.png&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 ![LICENSE](https://img.shields.io/badge/license-icon?style=for-the-badge&label=GPL-3.0&color=green) 
 ![PYTHON](https://img.shields.io/badge/3.8%2B-icon?style=for-the-badge&label=Python&color=lightblue)
