@@ -1,6 +1,6 @@
 {
   "lasted": {
-    "version": "Snapshot-5y1m5d-Nightly",
+    "version": "Snapshot-5y1m4d-Nightly",
     "describe": [
       "期待已久的脚手架将使用streamlit开发",
       "更新并开放了Update的部分功能",
@@ -8,7 +8,7 @@
     ]
   },
   "versions": [
-    "Snapshot-5y1m5d-Nightly",
+    "Snapshot-5y1m4d-Nightly",
     "Snapshot-4y12m31d-HappyNewYear",
     "Snapshot-4y12m15d-EX",
     "Snapshot-4y12m14d-Nightly",
