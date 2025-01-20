@@ -1,13 +1,16 @@
 {
   "lasted": {
-    "version": "Snapshot-5y1m4d-Nightly",
+    "version": "Snapshot-5y1m20d-Nightly",
     "describe": [
-      "期待已久的脚手架将使用streamlit开发",
-      "更新并开放了Update的部分功能",
-      "更新了更多启动时的插件"
+      "*esetup更新包版本检测器，支持一键添加文件夹",
+      "+ 更新loader架构",
+      "更新了importlib加载模式，支持了软件包的加载",
+      "更新了LOADMODE接口"
     ]
   },
   "versions": [
+    "Snapshot-5y1m20d-Nightly",
+    "Snapshot-5y1m12d-Nightly",
     "Snapshot-5y1m4d-Nightly",
     "Snapshot-4y12m31d-HappyNewYear",
     "Snapshot-4y12m15d-EX",
