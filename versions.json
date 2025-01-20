@@ -2,8 +2,8 @@
   "lasted": {
     "version": "Snapshot-5y1m20d-Nightly",
     "describe": [
-      "*esetup更新包版本检测器，支持一键添加文件夹",
-      "+ 更新loader架构",
+      "esetup更新包版本检测器，支持一键添加文件夹",
+      "更新loader架构",
       "更新了importlib加载模式，支持了软件包的加载",
       "更新了LOADMODE接口"
     ]
