@@ -1,14 +1,20 @@
 {
   "lasted": {
-    "version": "Snapshot-5y1m20d-Nightly",
+    "version": "Snapshot-5y1m22d-Nightly",
     "describe": [
-      "esetup更新包版本检测器，支持一键添加文件夹",
-      "更新loader架构",
-      "更新了importlib加载模式，支持了软件包的加载",
-      "更新了LOADMODE接口"
+      "+ eSetup 插件",
+      "自动部署位于plugins下的所有软件包",
+      "+ eBuild 插件",
+      "每次启动时构建一次框架(开发快照用)",
+      "+ command 前置",
+      "用于进行命令处理等，先已支持命令补全,更多功能施工中",
+      "+ InitCore 插件",
+      "用于加载部分系统前置",
+      "*修复了PlugManager更换加载器后导致的错误",
     ]
   },
   "versions": [
+    "Snapshot-5y1m22d-Nightly",
     "Snapshot-5y1m20d-Nightly",
     "Snapshot-5y1m12d-Nightly",
     "Snapshot-5y1m4d-Nightly",
