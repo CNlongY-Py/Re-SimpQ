@@ -1,19 +1,12 @@
 {
   "lasted": {
-    "version": "Snapshot-5y1m22d-Nightly",
+    "version": "Snapshot-5y1m23d-Nightly",
     "describe": [
-      "+ eSetup 插件",
-      "自动部署位于plugins下的所有软件包",
-      "+ eBuild 插件",
-      "每次启动时构建一次框架(开发快照用)",
-      "+ command 前置",
-      "用于进行命令处理等，先已支持命令补全,更多功能施工中",
-      "+ InitCore 插件",
-      "用于加载部分系统前置",
-      "*修复了PlugManager更换加载器后导致的错误"
+      "*修复了已知存在的很多问题(头大)"
     ]
   },
   "versions": [
+    "Snapshot-5y1m23d-Nightly",
     "Snapshot-5y1m22d-Nightly",
     "Snapshot-5y1m20d-Nightly",
     "Snapshot-5y1m12d-Nightly",
