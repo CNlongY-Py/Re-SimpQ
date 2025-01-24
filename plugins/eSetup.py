@@ -20,5 +20,3 @@ def meta_event(log, dat, bot):
 
 
 loader.regEvent("meta_event", meta_event)
-command.regCommand("es", "install", "<STR>")
-command.regCommand("es", "info")

@@ -2,7 +2,7 @@ from libs import loader
 
 PLUGINFO = {
     "name": "MsgCore",
-    "version": "1.0.0-Official",
+    "version": "1.0.0",
     "author": "CNlongY-Py",
 }
 
