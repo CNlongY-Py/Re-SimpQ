@@ -1,5 +1,13 @@
 from libs import loader
-def msglog(log,dat,bot):
+
+PLUGINFO = {
+    "name": "MsgCore",
+    "version": "1.0.0-Official",
+    "author": "CNlongY-Py",
+}
+
+
+def msglog(log, dat, bot):
     sub_type = dat["message_type"]
     if sub_type == "group":
         group_id = dat["group_id"]
@@ -13,5 +21,6 @@ def msglog(log,dat,bot):
         message = dat["raw_message"]
         userName = bot.get_stranger_info(user_id)["nickname"]
         log.info(f"[私聊消息]<{userName}>:{message}")
-loader.regEvent("message",msglog)
 
+
+loader.regEvent("message", msglog)
